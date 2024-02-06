@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/guilhermeasn/loteria.json.git"
+    "url": "git+ssh://git@github.com/w7br/loteria.json.git"
   },
   "author": "Guilherme Augusto Silva Neves <guilhermeasn@yahoo.com.br>",
   "license": "MIT",
