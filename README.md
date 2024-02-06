@@ -32,17 +32,17 @@ Os arquivos de sorteios que estão na pasta *data* contém um *object* no seguin
 
 Obtenha os dados via GET nos seguintes *endpoints*:
 
- - **Dia de Sorte**: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/diadesorte.json
- - **Dupla Sena**: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/duplasena.json
- - **Federal**: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/federal.json
- - **Lotofácil**: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/lotofacil.json
- - **Lotomania**: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/lotomania.json
- - **+Milionária**: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/maismilionaria.json
- - **Mega Sena**: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/megasena.json
- - **Quina**: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/quina.json
- - **Super Sete**: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/supersete.json
- - **Timemania**: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/timemania.json
- <!-- - **Loteca**: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/loteca.json -->
+ - **Dia de Sorte**: https://raw.githubusercontent.com/w7br/loteria.json/master/data/diadesorte.json
+ - **Dupla Sena**: https://raw.githubusercontent.com/w7br/loteria.json/master/data/duplasena.json
+ - **Federal**: https://raw.githubusercontent.com/w7br/loteria.json/master/data/federal.json
+ - **Lotofácil**: https://raw.githubusercontent.com/w7br/loteria.json/master/data/lotofacil.json
+ - **Lotomania**: https://raw.githubusercontent.com/w7br/loteria.json/master/data/lotomania.json
+ - **+Milionária**: https://raw.githubusercontent.com/w7br/loteria.json/master/data/maismilionaria.json
+ - **Mega Sena**: https://raw.githubusercontent.com/w7br/loteria.json/master/data/megasena.json
+ - **Quina**: https://raw.githubusercontent.com/w7br/loteria.json/master/data/quina.json
+ - **Super Sete**: https://raw.githubusercontent.com/w7br/loteria.json/master/data/supersete.json
+ - **Timemania**: https://raw.githubusercontent.com/w7br/loteria.json/master/data/timemania.json
+ <!-- - **Loteca**: https://raw.githubusercontent.com/w7br/loteria.json/master/data/loteca.json -->
  
 ## Análises
 
@@ -75,24 +75,24 @@ Algumas análises dos resultados são realizadas e salvas na pasta *data*, com e
 
 Obtenha as análises via GET nos seguintes *endpoints*:
 
- - **Dia de Sorte**: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/diadesorte.analytic.json
- - **Dupla Sena**: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/duplasena.analytic.json
- - **Lotofácil**: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/lotofacil.analytic.json
- - **Lotomania**: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/lotomania.analytic.json
- - **+Milionária**: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/maismilionaria.analytic.json
- - **Mega Sena**: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/megasena.analytic.json
- - **Quina**: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/quina.analytic.json
- - **Super Sete**: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/supersete.analytic.json
- - **Timemania**: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/timemania.analytic.json
+ - **Dia de Sorte**: https://raw.githubusercontent.com/w7br/loteria.json/master/data/diadesorte.analytic.json
+ - **Dupla Sena**: https://raw.githubusercontent.com/w7br/loteria.json/master/data/duplasena.analytic.json
+ - **Lotofácil**: https://raw.githubusercontent.com/w7br/loteria.json/master/data/lotofacil.analytic.json
+ - **Lotomania**: https://raw.githubusercontent.com/w7br/loteria.json/master/data/lotomania.analytic.json
+ - **+Milionária**: https://raw.githubusercontent.com/w7br/loteria.json/master/data/maismilionaria.analytic.json
+ - **Mega Sena**: https://raw.githubusercontent.com/w7br/loteria.json/master/data/megasena.analytic.json
+ - **Quina**: https://raw.githubusercontent.com/w7br/loteria.json/master/data/quina.analytic.json
+ - **Super Sete**: https://raw.githubusercontent.com/w7br/loteria.json/master/data/supersete.analytic.json
+ - **Timemania**: https://raw.githubusercontent.com/w7br/loteria.json/master/data/timemania.analytic.json
 
 ## Projetos que utilizam estes dados
 
- - **Analisador de Jogos da Lotofácil**: https://github.com/guilhermeasn/lotofacil/
+ - **Analisador de Jogos da Lotofácil**: https://github.com/w7br/lotofacil/
 
 ## Autor
 
-* **Guilherme Neves** - [github](https://github.com/guilhermeasn/) - [website](https://gn.dev.br/)
+* **Guilherme Neves** - [github](https://github.com/w7br/) - [website](https://allexus.dev.br/)
 
 ## Licença
 
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](https://github.com/guilhermeasn/loteria.json/blob/master/LICENSE) para detalhes.
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](https://github.com/w7br/loteria.json/blob/master/LICENSE) para detalhes.
